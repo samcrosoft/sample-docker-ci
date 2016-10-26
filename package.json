@@ -1,0 +1,13 @@
+{
+  "name": "SampleDockerCI",
+  "version": "1.0.0",
+  "description": "sample project to just demonstrate docker + circle ci",
+  "main": "index.js",
+  "author": "samuel olowofela <samuel_olowofela@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mocha": "^3.1.2",
+    "supertest": "^2.0.1"
+  }
+}
